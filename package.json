@@ -13,7 +13,7 @@
     "react-native",
     "storekit",
     "inapp-purchase",
-    "ios",
+    "ios"
   ],
   "homepage": "https://github.com/hansemannn/react-native-storekit",
   "repository": {
