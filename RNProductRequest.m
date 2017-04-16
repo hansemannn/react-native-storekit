@@ -2,7 +2,7 @@
 //  ProductRequest.m
 //
 //  Created by Hans Knöchel on 16.04.17.
-//  Copyright © 2017 Facebook. All rights reserved.
+//  Copyright © 2017 Hans Knöchel. All rights reserved.
 //
 
 #import "RNProductRequest.h"
