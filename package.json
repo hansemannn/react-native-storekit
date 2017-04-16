@@ -1,0 +1,39 @@
+{
+  "name": "react-native-storekit",
+  "version": "0.1.0",
+  "description": "iOS In-App Purchase using the StoreKit framework",
+  "main": "index.js",
+  "author": {
+    "name": "hansemannn",
+    "email": "hans@hans-knoechel.de",
+    "url": "https://github.com/hansemannn"
+  },
+  "keywords": [
+    "react-component",
+    "react-native",
+    "storekit",
+    "inapp-purchase",
+    "ios",
+  ],
+  "homepage": "https://github.com/hansemannn/react-native-storekit",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hansemannn/react-native-storekit"
+  },
+  "bugs": {
+    "url": "https://github.com/hansemannn/react-native-storekit/issues"
+  },
+  "peerDependencies": {
+    "react": ">=15.4.0",
+    "react-native": ">=0.40"
+  },
+  "rnpm": {
+    "ios": {
+      "project": "ios/RNStoreKit.xcodeproj",
+      "sharedLibraries": [
+        "StoreKit"
+      ]
+    }
+  },
+  "license": "MIT"
+}
